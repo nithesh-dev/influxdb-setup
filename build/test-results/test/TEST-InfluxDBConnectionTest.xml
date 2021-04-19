@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InfluxDBConnectionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-16T12:10:29" hostname="Nitheshs-MacBook-Pro.local" time="0.438">
+  <properties/>
+  <testcase name="shouldBeAbleToShowDataFromTheDatabse()" classname="InfluxDBConnectionTest" time="0.438"/>
+  <system-out><![CDATA[migration
+[time, id, lat, lon, s2_cell_id]
+2019-03-20T07:00:00Z 91752A 7.883 38.7975 17b4854 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

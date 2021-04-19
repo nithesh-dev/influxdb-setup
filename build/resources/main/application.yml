@@ -1,0 +1,5 @@
+influx:
+  serverURL: "http://localhost:8086"
+  databaseName: "polaris"
+  userName: "test"
+  password: "password"
